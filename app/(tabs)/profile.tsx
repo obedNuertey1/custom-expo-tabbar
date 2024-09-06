@@ -4,12 +4,12 @@ import React from 'react'
 const Page = () => {
   return (
     <View style={styles.container}>
-      <Text>explore</Text>
+      <Text>profile</Text>
     </View>
   )
 }
 
-export default Page
+export default Page;
 
 const styles = StyleSheet.create({
     container: {
